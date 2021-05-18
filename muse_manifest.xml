@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1621251859955">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1621325103676">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="496397534" ref="index"/>
+    <file name="index.css" crc="4048848294" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -13,17 +13,16 @@
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="asset 2.png" crc="509470184" seo="true" ref="index">
+    <file name="asset 2.png" crc="172197376" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 47.png" crc="4179102302" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 472.png" crc="117301898" seo="true" ref="index">
+    <file name="asset 47.png" crc="3833893885" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 473.png" crc="75583981" seo="true" ref="index">
+    <file name="asset 472.png" crc="75583981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="asset 48.png" crc="3836534869" seo="true" ref="index">
@@ -38,13 +37,37 @@
     <file name="asset 50.png" crc="495724140" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="asset 45.png" crc="4167547687" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="asset 53.png" crc="4080810393" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="u142-4.png" crc="522779290" ref="index"/>
+    <file name="u172.png" crc="4000039322" ref="index"/>
+    <file name="u172-r.png" crc="4090191814" ref="index"/>
+    <file name="u193.png" crc="4139104380" ref="index"/>
+    <file name="u193-r.png" crc="106968326" ref="index"/>
+    <file name="u222.png" crc="3899110280" ref="index"/>
+    <file name="u222-r.png" crc="358389305" ref="index"/>
+    <file name="u219.png" crc="243348342" ref="index"/>
+    <file name="u219-r.png" crc="233207738" ref="index"/>
+    <file name="u314-4.png" crc="195557843" ref="index"/>
+    <file name="u340.png" crc="403495568" ref="index"/>
+    <file name="u340-r.png" crc="514842564" ref="index"/>
+    <file name="u362.png" crc="3807529339" ref="index"/>
+    <file name="u362-r.png" crc="96338337" ref="index"/>
+    <file name="u365.png" crc="494715959" ref="index"/>
+    <file name="u365-r.png" crc="426786754" ref="index"/>
+    <file name="u385-4.png" crc="522779290" ref="index"/>
+    <file name="u436.png" crc="487193059" ref="index"/>
+    <file name="u436-r.png" crc="102197421" ref="index"/>
+    <file name="u433.png" crc="3764824882" ref="index"/>
+    <file name="u433-r.png" crc="249668881" ref="index"/>
+    <file name="u511.png" crc="4035691558" ref="index"/>
+    <file name="u511-r.png" crc="154526814" ref="index"/>
+    <file name="u491.png" crc="4035691558" ref="index"/>
+    <file name="u491-r.png" crc="154526814" ref="index"/>
+    <file name="u498.png" crc="4035691558" ref="index"/>
+    <file name="u498-r.png" crc="154526814" ref="index"/>
   </folder>
-  <file name="index.html" crc="4165313511" seo="true" mt="1621251766874" redirect="true"/>
+  <file name="index.html" crc="27369006" seo="true" mt="1621325029782" redirect="true"/>
 </manifest>
