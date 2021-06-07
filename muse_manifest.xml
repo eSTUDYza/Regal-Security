@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1621325103676">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1623074619320">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4048848294" ref="index"/>
+    <file name="index.css" crc="266600890" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -10,64 +10,96 @@
     <file name="museconfig.js" crc="3936894949" ref="index"/>
     <file name="jquery.watch.js" crc="522499760" ref="index"/>
     <file name="require.js" crc="4177726516" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="asset 2.png" crc="172197376" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 47.png" crc="3833893885" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 472.png" crc="75583981" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 48.png" crc="3836534869" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 49.png" crc="31227120" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 52.png" crc="233572737" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 50.png" crc="495724140" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asset 53.png" crc="4080810393" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u142-4.png" crc="522779290" ref="index"/>
+    <file name="u142-4.png" crc="3849451897" ref="index"/>
     <file name="u172.png" crc="4000039322" ref="index"/>
     <file name="u172-r.png" crc="4090191814" ref="index"/>
-    <file name="u193.png" crc="4139104380" ref="index"/>
-    <file name="u193-r.png" crc="106968326" ref="index"/>
-    <file name="u222.png" crc="3899110280" ref="index"/>
-    <file name="u222-r.png" crc="358389305" ref="index"/>
-    <file name="u219.png" crc="243348342" ref="index"/>
-    <file name="u219-r.png" crc="233207738" ref="index"/>
-    <file name="u314-4.png" crc="195557843" ref="index"/>
+    <file name="u193.png" crc="156154212" ref="index"/>
+    <file name="u193-r.png" crc="156154212" ref="index"/>
+    <file name="u222.png" crc="3843791835" ref="index"/>
+    <file name="u222-r.png" crc="3843791835" ref="index"/>
+    <file name="u219.png" crc="41712622" ref="index"/>
+    <file name="u219-r.png" crc="41712622" ref="index"/>
+    <file name="u314-4.png" crc="4217088368" ref="index"/>
     <file name="u340.png" crc="403495568" ref="index"/>
-    <file name="u340-r.png" crc="514842564" ref="index"/>
-    <file name="u362.png" crc="3807529339" ref="index"/>
-    <file name="u362-r.png" crc="96338337" ref="index"/>
+    <file name="u340-r.png" crc="107010739" ref="index"/>
+    <file name="u362.png" crc="174855769" ref="index"/>
+    <file name="u362-r.png" crc="174855769" ref="index"/>
     <file name="u365.png" crc="494715959" ref="index"/>
     <file name="u365-r.png" crc="426786754" ref="index"/>
-    <file name="u385-4.png" crc="522779290" ref="index"/>
-    <file name="u436.png" crc="487193059" ref="index"/>
-    <file name="u436-r.png" crc="102197421" ref="index"/>
-    <file name="u433.png" crc="3764824882" ref="index"/>
-    <file name="u433-r.png" crc="249668881" ref="index"/>
-    <file name="u511.png" crc="4035691558" ref="index"/>
-    <file name="u511-r.png" crc="154526814" ref="index"/>
-    <file name="u491.png" crc="4035691558" ref="index"/>
-    <file name="u491-r.png" crc="154526814" ref="index"/>
-    <file name="u498.png" crc="4035691558" ref="index"/>
-    <file name="u498-r.png" crc="154526814" ref="index"/>
+    <file name="u385-4.png" crc="3849451897" ref="index"/>
+    <file name="u436.png" crc="3916933108" ref="index"/>
+    <file name="u436-r.png" crc="3916933108" ref="index"/>
+    <file name="u433.png" crc="3861914224" ref="index"/>
+    <file name="u433-r.png" crc="3861914224" ref="index"/>
+    <file name="u511.png" crc="4285204376" ref="index"/>
+    <file name="u511-r.png" crc="141476098" ref="index"/>
+    <file name="basic electronics copy.png" crc="488522474" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="basic electronics copy 2.png" crc="4187468949" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cctv funda copy.png" crc="39107010" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cctv funda copy 2.png" crc="4223781958" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="network fundamentals copy 2.png" crc="101893585" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ip cctv copy 3.png" crc="4292473996" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hikivision copy 3.png" crc="179813533" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u761.png" crc="4285204376" ref="index"/>
+    <file name="u761-r.png" crc="141476098" ref="index"/>
+    <file name="access contron fun copy.png" crc="343338911" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="access contron fun copy 2.png" crc="3779198778" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="paxton copy 3.png" crc="491875578" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="access control advanved copy 3.png" crc="311012918" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u843.png" crc="4285204376" ref="index"/>
+    <file name="u843-r.png" crc="141476098" ref="index"/>
+    <file name="ajax copy 3.png" crc="424546260" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="risco copy 3.png" crc="3793498104" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u897-4.png" crc="3947161598" ref="index"/>
+    <file name="u904.png" crc="4285204376" ref="index"/>
+    <file name="u904-r.png" crc="141476098" ref="index"/>
+    <file name="u926.png" crc="4028640339" ref="index"/>
+    <file name="u926-r.png" crc="4028640339" ref="index"/>
+    <file name="wireless network copy 3.png" crc="3250574" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u923.png" crc="336501867" ref="index"/>
+    <file name="u923-r.png" crc="336501867" ref="index"/>
   </folder>
-  <file name="index.html" crc="27369006" seo="true" mt="1621325029782" redirect="true"/>
+  <file name="index.html" crc="62183476" seo="true" mt="1623074238898" redirect="true"/>
 </manifest>
