@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1623329638158">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1623330204700">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="532559185" ref="index"/>
+    <file name="index.css" crc="338263573" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -104,5 +104,5 @@
     <file name="u923.png" crc="336501867" ref="index"/>
     <file name="u923-r.png" crc="336501867" ref="index"/>
   </folder>
-  <file name="index.html" crc="4275020185" seo="true" mt="1623329632563" redirect="true"/>
+  <file name="index.html" crc="49403237" seo="true" mt="1623330187722" redirect="true"/>
 </manifest>
