@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1624517744892">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="regal.com" resolutions="1x" timestamp="1625039535285">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="491481255" ref="index"/>
@@ -30,7 +30,7 @@
     <file name="u362-r.png" crc="384873897" ref="index"/>
     <file name="u365.png" crc="4116586882" ref="index"/>
     <file name="u365-r.png" crc="3902781243" ref="index"/>
-    <file name="u385-4.png" crc="420161883" ref="index"/>
+    <file name="u385-4.png" crc="3867493733" ref="index"/>
     <file name="u436.png" crc="177945829" ref="index"/>
     <file name="u436-r.png" crc="177945829" ref="index"/>
     <file name="u433.png" crc="434473650" ref="index"/>
@@ -104,5 +104,5 @@
     <file name="u923.png" crc="391496573" ref="index"/>
     <file name="u923-r.png" crc="391496573" ref="index"/>
   </folder>
-  <file name="index.html" crc="74748403" seo="true" mt="1624517735056" redirect="true"/>
+  <file name="index.html" crc="48608490" seo="true" mt="1625039522403" redirect="true"/>
 </manifest>
